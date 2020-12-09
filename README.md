@@ -2,7 +2,8 @@
 Phylogenetic Analysis by Maximum Likelihood Analysis for positive selection
 ##
 
-*for the p-value*
+__for the p-value__
+
 get the log likelihoods of positive selection model and null model
 
 lnL pos: -4801.190343

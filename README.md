@@ -12,8 +12,8 @@ lnL null: -4807.118210
 
 convert 2 times the chi2 difference (df=1) into p.value.
 
-    _pchisq(2*(-4801.190343--4807.118210 ),df=1,lower.tail=F)_
+    pchisq(2*(-4801.190343--4807.118210 ),df=1,lower.tail=F)
 
-    _0.0005748407_
+    0.0005748407
 
 for more information, see: https://doi.org/10.1093/molbev/msi237

@@ -1,6 +1,6 @@
-seqfile = NUCFILENAME
-treefile = tree.txt
-outfile = NUCFILENAME.pamlout
+seqfile = ENSLAFT00000027343.nuc
+treefile = example_tree.txt
+outfile = ENSLAFT00000027343_pos.pamlout
 
 noisy = 3
 verbose = 1

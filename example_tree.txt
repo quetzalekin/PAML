@@ -1,0 +1,5 @@
+3  1
+
+((MammothCon:2.5 #1, AsianConse:2.5):3.5, AfricanCon:6.0);
+
+// end of file
